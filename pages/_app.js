@@ -18,7 +18,7 @@ export default class MyApp extends App {
     const {Component, pageProps} = this.props
     return <Container>
       <Head>
-        <title>template</title>
+        <title>Chennai Golang</title>
       </Head>
       <Component {...pageProps} />
     </Container>
